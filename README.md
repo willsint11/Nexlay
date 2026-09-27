@@ -4,8 +4,6 @@
 
 Nexlay est une marketplace web intuitive pour les événements — un espace où les clients trouvent les meilleurs prestataires (traiteurs, photographes, DJ, décorateurs, fleuristes, etc.) et où les professionnels partagent leur savoir-faire.
 
-![Nexlay](https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=85)
-
 ## 🎯 C'est quoi Nexlay ?
 
 Une plateforme simple et élégante pour :
@@ -187,7 +185,6 @@ MIT — utilise, modifie et distribue librement.
 ## 📞 Contact & Support
 
 - **GitHub** : https://github.com/willsint11/Nexlay
-- **Email** : willsint11@github.com
 - **Auteur** : willsint11
 
 ---
